@@ -1,0 +1,48 @@
+_repo: The-Harbours-of-England_21591
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Lupton, Thomas Goff
+    birthdate: 1791
+    deathdate: 1873
+    gutenberg_agent_id: '36706'
+    url: http://www.gutenberg.org/2009/agents/36706
+  illustrator:
+    agent_name: Turner, J. M. W. (Joseph Mallord William)
+    alias: Turner, Joseph Mallord William
+    birthdate: 1775
+    deathdate: 1851
+    gutenberg_agent_id: '24796'
+    url: http://www.gutenberg.org/2009/agents/24796
+    wikipedia: http://en.wikipedia.org/wiki/J._M._W._Turner
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: In 1856, while Ruskin was in the midst of his monumental Modern Painters
+  , the great British cultural theorist jumped at the chance to pen commentaries to
+  accompany a dozen plates by J. M. W. Turner (1775-1851). Ruskin's illuminating text,
+  the only book he wrote on commission, makes for a unique work in the annals of art
+  history.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Harbors -- England'
+title: The Harbours of England
+url: http://www.gutenberg.org/ebooks/21591
